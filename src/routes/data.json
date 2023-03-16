@@ -1,0 +1,14 @@
+[
+    {
+        "id":"1",
+        "title":"Juego 1",
+        "version":"1",
+        "genre":"Aventura"
+    },
+    {
+        "id":"2",
+        "title":"Juego 2",
+        "version":"3",
+        "genre":"Accion"
+    }
+]
